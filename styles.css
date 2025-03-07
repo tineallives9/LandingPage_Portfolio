@@ -5,6 +5,15 @@ body {
     background-color: #f5f5f5;
 }
 
+.profile-pic {
+    width: 100px; /* Mas maliit kaysa dati */
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto 10px;
+}
+
 .portfolio-container {
     max-width: 1000px;
     margin: auto;
